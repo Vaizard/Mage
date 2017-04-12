@@ -36,6 +36,7 @@ physical hosts as well as clusters.
 - Application
   - https://github.com/Vaizard/mage.matrix-stack
   - https://github.com/Vaizard/mage.nginx-app
+  - https://github.com/Vaizard/mage.apache-app
 - Administration
   - https://github.com/Vaizard/mage.adminer
 
