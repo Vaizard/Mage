@@ -23,6 +23,7 @@ physical hosts as well as clusters.
   - https://github.com/Vaizard/mage.sudo
   - https://github.com/Vaizard/mage.openssh
   - https://github.com/Vaizard/mage.vsftpd
+  - https://github.com/Vaizard/mage.fail2ban [Oefenweb/ansible-fail2ban]
 - Databases
   - https://github.com/Vaizard/mage.mysql [geerlingguy/ansible-role-mysql]
   - https://github.com/Vaizard/mage.redis [geerlingguy/ansible-role-redis]
