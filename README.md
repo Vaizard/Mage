@@ -40,6 +40,7 @@ physical hosts as well as clusters.
   - https://github.com/Vaizard/mage.apache-app
 - Administration and backups
   - https://github.com/Vaizard/mage.adminer
+  - https://github.com/Vaizard/mage.pimpmylog
   - https://github.com/Vaizard/mage.borgbackup
 
 ## Dropped
