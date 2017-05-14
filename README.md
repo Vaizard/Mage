@@ -19,7 +19,7 @@ physical hosts as well as clusters.
 ## Application & configuration roles
 
 - Virtualization
-  - https://github.com/Vaizard/mage.libvirtd
+  - https://github.com/Vaizard/mage.libvirt
 - Users, sudoers, network (ssh, ftp, nfs)
   - https://github.com/Vaizard/mage.users
   - https://github.com/Vaizard/mage.sudo
