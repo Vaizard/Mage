@@ -18,12 +18,15 @@ physical hosts as well as clusters.
 
 ## Application & configuration roles
 
-- Users, sudoers, ssh access. ftp access
+- Virtualization
+  - https://github.com/Vaizard/mage.libvirtd
+- Users, sudoers, network (ssh, ftp, nfs)
   - https://github.com/Vaizard/mage.users
   - https://github.com/Vaizard/mage.sudo
   - https://github.com/Vaizard/mage.openssh
   - https://github.com/Vaizard/mage.vsftpd
   - https://github.com/Vaizard/mage.fail2ban [Oefenweb/ansible-fail2ban]
+  - https://github.com/Vaizard/mage.nfs [https://github.com/geerlingguy/ansible-role-nfs]
 - Databases
   - https://github.com/Vaizard/mage.mysql [geerlingguy/ansible-role-mysql]
   - https://github.com/Vaizard/mage.redis [geerlingguy/ansible-role-redis]
