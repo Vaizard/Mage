@@ -45,6 +45,8 @@ physical hosts as well as clusters.
   - https://github.com/Vaizard/mage.adminer
   - https://github.com/Vaizard/mage.pimpmylog
   - https://github.com/Vaizard/mage.borgbackup
+- MS Windows roles
+  - https://github.com/Vaizard/mage.mswindows
 
 ## Dropped
 
