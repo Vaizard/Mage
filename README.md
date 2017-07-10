@@ -57,3 +57,11 @@ Following playbooks have been superseeded by another solution
 - https://github.com/Vaizard/mage.mailtrain [see mage.phplist]
 - https://github.com/Vaizard/mage.mattermost [see mage.matrix-stack]
 
+## Cheatsheet
+
+Add key to ssh-agent
+
+```
+eval $(ssh-agent -s)
+ssh-add ~/.ssh/id_rsa
+```
